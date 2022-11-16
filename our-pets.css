@@ -1,0 +1,62 @@
+header {
+    background: #FFFFFF;
+    padding: 30px 40px;
+}
+
+.title, .subtitle, .link {
+    color: #545454;
+}
+
+.img-pets {
+    flex-wrap: wrap;
+}
+
+.img-pets-slide {
+    margin-bottom: 37px;
+}
+
+.img-button {
+    margin-left: 429px;
+    margin-top: 21px;
+}
+
+.pets {
+    height: 1342px;
+    padding: 80px 40px;
+}
+
+.heading-3 {
+    margin-top: -12px;
+    margin-left: 404px;
+
+}
+
+.img-pets {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 57px;
+}
+
+.top-menu {
+    margin-top: 0px;
+    margin-right: 28px;
+}
+
+.heading-footer {
+    margin-top: -10px;
+}
+
+.contact {
+    padding-top: 44px;
+    margin-top: 21px;
+    margin-left: 0px;
+}
+
+.fon-footer {
+    margin-top: -32px;
+}
+
+.close {
+    right: 124px;
+    top: 194px;
+}

@@ -1,0 +1,52 @@
+@media screen and (max-width: 768px) {
+    .heading-3 {
+        margin-left: 144px;
+    }
+
+    .img-pets {
+        margin-top: 27px;
+        margin-left: 53px;
+        margin-right: 52px;
+    }
+
+    .img-pets-slide-none {
+        visibility: hidden;
+    }
+
+    .pets {
+        height: 1733px;
+    }
+
+    .img-button {
+        margin-top: -484px;
+        margin-left: 174px;
+    }
+
+    footer {
+        background: radial-gradient(110.67% 538.64% at 5.73% 50%, #513D2F 0%, #1A1A1C 100%);
+        flex-wrap: wrap;
+        padding-top: 33px;
+        padding: 36px 82px 0 64px;
+    }
+
+    .heading-footer {
+        margin-left: 24px;
+        margin-left: -17px;
+        padding-left: 25px;
+    }
+
+    .contact p {
+        margin-left: 11px;
+        margin-top: 10px;
+    }
+
+    .fon-footer {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 78px;
+    }
+
+    header {
+        background: #FFFFFF;
+    }
+}

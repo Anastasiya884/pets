@@ -1,0 +1,74 @@
+@media screen and (max-width: 320px) {
+    header {
+        display: block;
+        padding-left: 10px;
+    }
+
+    .nav-menu {
+        visibility: hidden;
+    }
+
+    .heading-3 {
+        margin-left: -13px;
+        font-size: 25px;
+        margin-top: -137px;
+    }
+
+    .pets {
+        margin-left: -68px;
+    }
+
+    .img-pets-slide-dog {
+        /*visibility: hidden;*/
+        display: none;
+    }
+
+    .img-button {
+        margin-top: -2355px;
+        margin-left: 32px;
+    }
+
+    .img-button img {
+        width: 310px;
+    }
+
+    .pets {
+        height: 1548px;
+    }
+
+    .heading-footer {
+        color: black;
+        text-align: center;
+        font-size: 25px;
+        margin-top: 273px;
+        margin-left: -21px;
+    }
+
+    .footer-block {
+        margin-top: -276px;
+        margin-left: -26px;
+    }
+
+    .fon-footer img {
+        max-width: 259px;
+        margin-top: -13px;
+        margin-left: -32px;
+    }
+
+    .donation {
+        padding: 415px 132px 102px 131px;
+        height: 0;
+    }
+
+    .heading-footer-2 {
+        margin-top: 56px;
+        width: 474px;
+        margin-left: -150px;
+        text-align: center;
+    }
+
+    .contact {
+        margin-left: -32px;
+        margin-top: 21px;
+    }
+}
